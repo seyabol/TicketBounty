@@ -12,7 +12,7 @@ A full-stack ticket management application built with **Next.js 15** and **React
   * **Robust Validation:** End-to-end type safety and data integrity using **Zod**.
   * **Optimized UX:** Features caching strategies, streaming, lazy loading, and a responsive UI (Light/Dark mode).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
